@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Presidency Campus Navigator",
+  "description": "A specialized navigation and campus guide for Presidency University, Bengaluru, powered by Gemini Maps Grounding for real-time location and directions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
